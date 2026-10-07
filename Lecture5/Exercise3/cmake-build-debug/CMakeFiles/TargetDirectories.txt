@@ -1,0 +1,3 @@
+/Users/danielgeorgiev/Documents/c++projects/Lecture5/Exercise3/cmake-build-debug/CMakeFiles/Exercise3.dir
+/Users/danielgeorgiev/Documents/c++projects/Lecture5/Exercise3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielgeorgiev/Documents/c++projects/Lecture5/Exercise3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
