@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 4.0)
-project(Exercise2)
-
-set(CMAKE_CXX_STANDARD 11)
-
-add_executable(Exercise2 main.cpp)
